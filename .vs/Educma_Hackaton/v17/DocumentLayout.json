@@ -1,0 +1,466 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\design\\registerforme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:design\\registerforme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\design\\connexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:design\\connexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\design\\loadingpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:design\\loadingpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\models\\emploidutempcreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:models\\emploidutempcreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\models\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:models\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\models\\gestiondesnote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:models\\gestiondesnote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\models\\emploiDuTemps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:models\\emploiDuTemps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\models\\emploidutemps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:models\\emploidutemps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\models\\devoirenlignecreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:models\\devoirenlignecreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\models\\dashbord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:models\\dashbord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\Design\\Connexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Design\\Connexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\Design\\RegisterForme.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Design\\RegisterForme.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\Design\\RegisterForme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Design\\RegisterForme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\design\\educma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:design\\educma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\Educma_Hackaton.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Educma_Hackaton.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\models\\ChatGroup.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:models\\ChatGroup.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\models\\ChatGroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:models\\ChatGroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\models\\ApiServiceOfCreationEmploi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:models\\ApiServiceOfCreationEmploi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\models\\chatgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:models\\chatgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\models\\ChatGroups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:models\\ChatGroups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\models\\GroupeInfoContainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:models\\GroupeInfoContainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\models\\GroupeInfos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:models\\GroupeInfos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\models\\emploiDuTempCreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:models\\emploiDuTempCreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\models\\cours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:models\\cours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\models\\cours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:models\\cours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\Design\\Educma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Design\\Educma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 28,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterForme.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\Design\\RegisterForme.cs",
+              "RelativeDocumentMoniker": "Design\\RegisterForme.cs",
+              "ToolTip": "C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\Design\\RegisterForme.cs [Conception]",
+              "RelativeToolTip": "Design\\RegisterForme.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T03:26:56.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Connexion.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\Design\\Connexion.cs",
+              "RelativeDocumentMoniker": "Design\\Connexion.cs",
+              "ToolTip": "C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\Design\\Connexion.cs [Conception]",
+              "RelativeToolTip": "Design\\Connexion.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T03:24:14.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoadingPage.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\Design\\LoadingPage.cs",
+              "RelativeDocumentMoniker": "Design\\LoadingPage.cs",
+              "ToolTip": "C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\Design\\LoadingPage.cs [Conception]",
+              "RelativeToolTip": "Design\\LoadingPage.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T03:07:15.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "emploiDuTempCreation.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\models\\emploiDuTempCreation.cs",
+              "RelativeDocumentMoniker": "models\\emploiDuTempCreation.cs",
+              "ToolTip": "C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\models\\emploiDuTempCreation.cs [Conception]",
+              "RelativeToolTip": "models\\emploiDuTempCreation.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T02:41:08.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Attendance.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\models\\Attendance.cs",
+              "RelativeDocumentMoniker": "models\\Attendance.cs",
+              "ToolTip": "C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\models\\Attendance.cs [Conception]",
+              "RelativeToolTip": "models\\Attendance.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T02:40:33.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GestionDesNote.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\models\\GestionDesNote.cs",
+              "RelativeDocumentMoniker": "models\\GestionDesNote.cs",
+              "ToolTip": "C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\models\\GestionDesNote.cs [Conception]",
+              "RelativeToolTip": "models\\GestionDesNote.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T02:39:52.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "emploiDuTemps.cs",
+              "DocumentMoniker": "C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\models\\emploiDuTemps.cs",
+              "RelativeDocumentMoniker": "models\\emploiDuTemps.cs",
+              "ToolTip": "C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\models\\emploiDuTemps.cs",
+              "RelativeToolTip": "models\\emploiDuTemps.cs",
+              "ViewState": "AgIAAAYAAAAQFQAAAAAhwBMAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T02:30:31.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "emploiDuTemps.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\models\\emploiDuTemps.cs",
+              "RelativeDocumentMoniker": "models\\emploiDuTemps.cs",
+              "ToolTip": "C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\models\\emploiDuTemps.cs [Conception]",
+              "RelativeToolTip": "models\\emploiDuTemps.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T02:30:22.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "devoirEnligneCreation.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\models\\devoirEnligneCreation.cs",
+              "RelativeDocumentMoniker": "models\\devoirEnligneCreation.cs",
+              "ToolTip": "C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\models\\devoirEnligneCreation.cs [Conception]",
+              "RelativeToolTip": "models\\devoirEnligneCreation.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T02:30:06.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "dashbord.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\models\\dashbord.cs",
+              "RelativeDocumentMoniker": "models\\dashbord.cs",
+              "ToolTip": "C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\models\\dashbord.cs [Conception]",
+              "RelativeToolTip": "models\\dashbord.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T02:07:41.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Connexion.cs",
+              "DocumentMoniker": "C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\Design\\Connexion.cs",
+              "RelativeDocumentMoniker": "Design\\Connexion.cs",
+              "ToolTip": "C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\Design\\Connexion.cs",
+              "RelativeToolTip": "Design\\Connexion.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAkwEoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T15:54:08.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegisterForme.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\Design\\RegisterForme.Designer.cs",
+              "RelativeDocumentMoniker": "Design\\RegisterForme.Designer.cs",
+              "ToolTip": "C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\Design\\RegisterForme.Designer.cs",
+              "RelativeToolTip": "Design\\RegisterForme.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T15:53:50.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegisterForme.cs",
+              "DocumentMoniker": "C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\Design\\RegisterForme.cs",
+              "RelativeDocumentMoniker": "Design\\RegisterForme.cs",
+              "ToolTip": "C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\Design\\RegisterForme.cs",
+              "RelativeToolTip": "Design\\RegisterForme.cs",
+              "ViewState": "AgIAAHIAAABAxszMzMwrwHoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T15:53:26.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Educma.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\Design\\Educma.cs",
+              "RelativeDocumentMoniker": "Design\\Educma.cs",
+              "ToolTip": "C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\Design\\Educma.cs [Conception]",
+              "RelativeToolTip": "Design\\Educma.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T15:36:58.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Educma_Hackaton.csproj",
+              "DocumentMoniker": "C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\Educma_Hackaton.csproj",
+              "RelativeDocumentMoniker": "Educma_Hackaton.csproj",
+              "ToolTip": "C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\Educma_Hackaton.csproj",
+              "RelativeToolTip": "Educma_Hackaton.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-13T15:25:33.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ChatGroup.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\models\\ChatGroup.Designer.cs",
+              "RelativeDocumentMoniker": "models\\ChatGroup.Designer.cs",
+              "ToolTip": "C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\models\\ChatGroup.Designer.cs",
+              "RelativeToolTip": "models\\ChatGroup.Designer.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T12:58:52.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ChatGroup.cs",
+              "DocumentMoniker": "C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\models\\ChatGroup.cs",
+              "RelativeDocumentMoniker": "models\\ChatGroup.cs",
+              "ToolTip": "C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\models\\ChatGroup.cs",
+              "RelativeToolTip": "models\\ChatGroup.cs",
+              "ViewState": "AgIAADkAAAAg0czMzMwnwEYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T10:50:40.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApiServiceOfCreationEmploi.cs",
+              "DocumentMoniker": "C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\models\\ApiServiceOfCreationEmploi.cs",
+              "RelativeDocumentMoniker": "models\\ApiServiceOfCreationEmploi.cs",
+              "ToolTip": "C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\models\\ApiServiceOfCreationEmploi.cs",
+              "RelativeToolTip": "models\\ApiServiceOfCreationEmploi.cs",
+              "ViewState": "AgIAACIAAACgzszMzMwnwCcAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T12:26:52.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ChatGroup.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\models\\ChatGroup.cs",
+              "RelativeDocumentMoniker": "models\\ChatGroup.cs",
+              "ToolTip": "C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\models\\ChatGroup.cs [Conception]",
+              "RelativeToolTip": "models\\ChatGroup.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T10:37:11.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ChatGroups.cs",
+              "DocumentMoniker": "C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\models\\ChatGroups.cs",
+              "RelativeDocumentMoniker": "models\\ChatGroups.cs",
+              "ToolTip": "C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\models\\ChatGroups.cs",
+              "RelativeToolTip": "models\\ChatGroups.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T12:31:43.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GroupeInfoContainer.cs",
+              "DocumentMoniker": "C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\models\\GroupeInfoContainer.cs",
+              "RelativeDocumentMoniker": "models\\GroupeInfoContainer.cs",
+              "ToolTip": "C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\models\\GroupeInfoContainer.cs",
+              "RelativeToolTip": "models\\GroupeInfoContainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T12:48:43.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GroupeInfos.cs",
+              "DocumentMoniker": "C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\models\\GroupeInfos.cs",
+              "RelativeDocumentMoniker": "models\\GroupeInfos.cs",
+              "ToolTip": "C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\models\\GroupeInfos.cs",
+              "RelativeToolTip": "models\\GroupeInfos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T12:47:23.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "emploiDuTempCreation.cs",
+              "DocumentMoniker": "C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\models\\emploiDuTempCreation.cs",
+              "RelativeDocumentMoniker": "models\\emploiDuTempCreation.cs",
+              "ToolTip": "C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\models\\emploiDuTempCreation.cs",
+              "RelativeToolTip": "models\\emploiDuTempCreation.cs",
+              "ViewState": "AgIAABUAAACgnpmZmZkuwBwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T04:02:25.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "cours.cs",
+              "DocumentMoniker": "C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\models\\cours.cs",
+              "RelativeDocumentMoniker": "models\\cours.cs",
+              "ToolTip": "C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\models\\cours.cs",
+              "RelativeToolTip": "models\\cours.cs",
+              "ViewState": "AgIAAAgAAABg0czMzMwnwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T03:27:30.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "cours.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\models\\cours.cs",
+              "RelativeDocumentMoniker": "models\\cours.cs",
+              "ToolTip": "C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\models\\cours.cs [Conception]",
+              "RelativeToolTip": "models\\cours.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T19:14:22.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T18:19:10.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Educma.cs",
+              "DocumentMoniker": "C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\Design\\Educma.cs",
+              "RelativeDocumentMoniker": "Design\\Educma.cs",
+              "ToolTip": "C:\\Users\\kananavy\\Pictures\\Educma_Hackaton\\Design\\Educma.cs",
+              "RelativeToolTip": "Design\\Educma.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T03:43:52.162Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 96,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

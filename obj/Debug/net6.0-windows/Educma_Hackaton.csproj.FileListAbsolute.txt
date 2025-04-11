@@ -1,0 +1,94 @@
+E:\Programmation\Tous mes projets\C#\Educma_Hackaton\bin\Debug\net6.0-windows\Educma_Hackaton.exe
+E:\Programmation\Tous mes projets\C#\Educma_Hackaton\bin\Debug\net6.0-windows\Educma_Hackaton.deps.json
+E:\Programmation\Tous mes projets\C#\Educma_Hackaton\bin\Debug\net6.0-windows\Educma_Hackaton.runtimeconfig.json
+E:\Programmation\Tous mes projets\C#\Educma_Hackaton\bin\Debug\net6.0-windows\Educma_Hackaton.dll
+E:\Programmation\Tous mes projets\C#\Educma_Hackaton\bin\Debug\net6.0-windows\Educma_Hackaton.pdb
+E:\Programmation\Tous mes projets\C#\Educma_Hackaton\bin\Debug\net6.0-windows\Guna.UI2.dll
+E:\Programmation\Tous mes projets\C#\Educma_Hackaton\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+E:\Programmation\Tous mes projets\C#\Educma_Hackaton\bin\Debug\net6.0-windows\System.Management.dll
+E:\Programmation\Tous mes projets\C#\Educma_Hackaton\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+E:\Programmation\Tous mes projets\C#\Educma_Hackaton\obj\Debug\net6.0-windows\Educma_Hackaton.csproj.AssemblyReference.cache
+E:\Programmation\Tous mes projets\C#\Educma_Hackaton\obj\Debug\net6.0-windows\Educma_Hackaton.Design.Educma.resources
+E:\Programmation\Tous mes projets\C#\Educma_Hackaton\obj\Debug\net6.0-windows\Educma_Hackaton.models.pageCours.resources
+E:\Programmation\Tous mes projets\C#\Educma_Hackaton\obj\Debug\net6.0-windows\Educma_Hackaton.models.pageDashboard.resources
+E:\Programmation\Tous mes projets\C#\Educma_Hackaton\obj\Debug\net6.0-windows\Educma_Hackaton.models.devoirEnligneCreation.resources
+E:\Programmation\Tous mes projets\C#\Educma_Hackaton\obj\Debug\net6.0-windows\Educma_Hackaton.models.emploiDuTempCreation.resources
+E:\Programmation\Tous mes projets\C#\Educma_Hackaton\obj\Debug\net6.0-windows\Educma_Hackaton.models.pageEmploisDuTemps.resources
+E:\Programmation\Tous mes projets\C#\Educma_Hackaton\obj\Debug\net6.0-windows\Educma_Hackaton.Properties.Resources.resources
+E:\Programmation\Tous mes projets\C#\Educma_Hackaton\obj\Debug\net6.0-windows\Educma_Hackaton.csproj.GenerateResource.cache
+E:\Programmation\Tous mes projets\C#\Educma_Hackaton\obj\Debug\net6.0-windows\Educma_Hackaton.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programmation\Tous mes projets\C#\Educma_Hackaton\obj\Debug\net6.0-windows\Educma_Hackaton.AssemblyInfoInputs.cache
+E:\Programmation\Tous mes projets\C#\Educma_Hackaton\obj\Debug\net6.0-windows\Educma_Hackaton.AssemblyInfo.cs
+E:\Programmation\Tous mes projets\C#\Educma_Hackaton\obj\Debug\net6.0-windows\Educma_Hackaton.csproj.CoreCompileInputs.cache
+E:\Programmation\Tous mes projets\C#\Educma_Hackaton\obj\Debug\net6.0-windows\Educma_H.B759C520.Up2Date
+E:\Programmation\Tous mes projets\C#\Educma_Hackaton\obj\Debug\net6.0-windows\Educma_Hackaton.dll
+E:\Programmation\Tous mes projets\C#\Educma_Hackaton\obj\Debug\net6.0-windows\refint\Educma_Hackaton.dll
+E:\Programmation\Tous mes projets\C#\Educma_Hackaton\obj\Debug\net6.0-windows\Educma_Hackaton.pdb
+E:\Programmation\Tous mes projets\C#\Educma_Hackaton\obj\Debug\net6.0-windows\Educma_Hackaton.genruntimeconfig.cache
+E:\Programmation\Tous mes projets\C#\Educma_Hackaton\obj\Debug\net6.0-windows\ref\Educma_Hackaton.dll
+E:\Programmation\Tous mes projets\C#\Educma_Hackaton\obj\Debug\net6.0-windows\Educma_Hackaton.models.pageChatGroup.resources
+F:\Educma_Hackaton\bin\Debug\net6.0-windows\Educma_Hackaton.exe
+F:\Educma_Hackaton\bin\Debug\net6.0-windows\Educma_Hackaton.deps.json
+F:\Educma_Hackaton\bin\Debug\net6.0-windows\Educma_Hackaton.runtimeconfig.json
+F:\Educma_Hackaton\bin\Debug\net6.0-windows\Educma_Hackaton.dll
+F:\Educma_Hackaton\bin\Debug\net6.0-windows\Educma_Hackaton.pdb
+F:\Educma_Hackaton\bin\Debug\net6.0-windows\Guna.UI2.dll
+F:\Educma_Hackaton\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+F:\Educma_Hackaton\bin\Debug\net6.0-windows\System.Management.dll
+F:\Educma_Hackaton\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+F:\Educma_Hackaton\obj\Debug\net6.0-windows\Educma_Hackaton.csproj.AssemblyReference.cache
+F:\Educma_Hackaton\obj\Debug\net6.0-windows\Educma_Hackaton.Design.Educma.resources
+F:\Educma_Hackaton\obj\Debug\net6.0-windows\Educma_Hackaton.models.Attendance.resources
+F:\Educma_Hackaton\obj\Debug\net6.0-windows\Educma_Hackaton.models.pageChatGroup.resources
+F:\Educma_Hackaton\obj\Debug\net6.0-windows\Educma_Hackaton.models.pageCours.resources
+F:\Educma_Hackaton\obj\Debug\net6.0-windows\Educma_Hackaton.models.pageDashboard.resources
+F:\Educma_Hackaton\obj\Debug\net6.0-windows\Educma_Hackaton.models.devoirEnligneCreation.resources
+F:\Educma_Hackaton\obj\Debug\net6.0-windows\Educma_Hackaton.models.emploiDuTempCreation.resources
+F:\Educma_Hackaton\obj\Debug\net6.0-windows\Educma_Hackaton.models.pageEmploisDuTemps.resources
+F:\Educma_Hackaton\obj\Debug\net6.0-windows\Educma_Hackaton.Properties.Resources.resources
+F:\Educma_Hackaton\obj\Debug\net6.0-windows\Educma_Hackaton.csproj.GenerateResource.cache
+F:\Educma_Hackaton\obj\Debug\net6.0-windows\Educma_Hackaton.GeneratedMSBuildEditorConfig.editorconfig
+F:\Educma_Hackaton\obj\Debug\net6.0-windows\Educma_Hackaton.AssemblyInfoInputs.cache
+F:\Educma_Hackaton\obj\Debug\net6.0-windows\Educma_Hackaton.AssemblyInfo.cs
+F:\Educma_Hackaton\obj\Debug\net6.0-windows\Educma_Hackaton.csproj.CoreCompileInputs.cache
+F:\Educma_Hackaton\obj\Debug\net6.0-windows\Educma_H.B759C520.Up2Date
+F:\Educma_Hackaton\obj\Debug\net6.0-windows\Educma_Hackaton.dll
+F:\Educma_Hackaton\obj\Debug\net6.0-windows\refint\Educma_Hackaton.dll
+F:\Educma_Hackaton\obj\Debug\net6.0-windows\Educma_Hackaton.pdb
+F:\Educma_Hackaton\obj\Debug\net6.0-windows\Educma_Hackaton.genruntimeconfig.cache
+F:\Educma_Hackaton\obj\Debug\net6.0-windows\ref\Educma_Hackaton.dll
+C:\Users\kananavy\Pictures\Educma_Hackaton\bin\Debug\net6.0-windows\Educma_Hackaton.exe
+C:\Users\kananavy\Pictures\Educma_Hackaton\bin\Debug\net6.0-windows\Educma_Hackaton.deps.json
+C:\Users\kananavy\Pictures\Educma_Hackaton\bin\Debug\net6.0-windows\Educma_Hackaton.runtimeconfig.json
+C:\Users\kananavy\Pictures\Educma_Hackaton\bin\Debug\net6.0-windows\Educma_Hackaton.dll
+C:\Users\kananavy\Pictures\Educma_Hackaton\bin\Debug\net6.0-windows\Educma_Hackaton.pdb
+C:\Users\kananavy\Pictures\Educma_Hackaton\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\kananavy\Pictures\Educma_Hackaton\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\kananavy\Pictures\Educma_Hackaton\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\kananavy\Pictures\Educma_Hackaton\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\kananavy\Pictures\Educma_Hackaton\obj\Debug\net6.0-windows\Educma_Hackaton.csproj.AssemblyReference.cache
+C:\Users\kananavy\Pictures\Educma_Hackaton\obj\Debug\net6.0-windows\Educma_Hackaton.Design.Connexion.resources
+C:\Users\kananavy\Pictures\Educma_Hackaton\obj\Debug\net6.0-windows\Educma_Hackaton.Design.Educma.resources
+C:\Users\kananavy\Pictures\Educma_Hackaton\obj\Debug\net6.0-windows\Educma_Hackaton.Design.LoadingPage.resources
+C:\Users\kananavy\Pictures\Educma_Hackaton\obj\Debug\net6.0-windows\Educma_Hackaton.Design.RegisterForm.resources
+C:\Users\kananavy\Pictures\Educma_Hackaton\obj\Debug\net6.0-windows\Educma_Hackaton.models.Attendance.resources
+C:\Users\kananavy\Pictures\Educma_Hackaton\obj\Debug\net6.0-windows\Educma_Hackaton.models.pageChatGroup.resources
+C:\Users\kananavy\Pictures\Educma_Hackaton\obj\Debug\net6.0-windows\Educma_Hackaton.models.pageCours.resources
+C:\Users\kananavy\Pictures\Educma_Hackaton\obj\Debug\net6.0-windows\Educma_Hackaton.models.pageDashboard.resources
+C:\Users\kananavy\Pictures\Educma_Hackaton\obj\Debug\net6.0-windows\Educma_Hackaton.models.devoirEnligneCreation.resources
+C:\Users\kananavy\Pictures\Educma_Hackaton\obj\Debug\net6.0-windows\Educma_Hackaton.models.emploiDuTempCreation.resources
+C:\Users\kananavy\Pictures\Educma_Hackaton\obj\Debug\net6.0-windows\Educma_Hackaton.models.pageEmploisDuTemps.resources
+C:\Users\kananavy\Pictures\Educma_Hackaton\obj\Debug\net6.0-windows\Educma_Hackaton.Properties.Resources.resources
+C:\Users\kananavy\Pictures\Educma_Hackaton\obj\Debug\net6.0-windows\Educma_Hackaton.csproj.GenerateResource.cache
+C:\Users\kananavy\Pictures\Educma_Hackaton\obj\Debug\net6.0-windows\Educma_Hackaton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kananavy\Pictures\Educma_Hackaton\obj\Debug\net6.0-windows\Educma_Hackaton.AssemblyInfoInputs.cache
+C:\Users\kananavy\Pictures\Educma_Hackaton\obj\Debug\net6.0-windows\Educma_Hackaton.AssemblyInfo.cs
+C:\Users\kananavy\Pictures\Educma_Hackaton\obj\Debug\net6.0-windows\Educma_Hackaton.csproj.CoreCompileInputs.cache
+C:\Users\kananavy\Pictures\Educma_Hackaton\obj\Debug\net6.0-windows\Educma_Hackaton.sourcelink.json
+C:\Users\kananavy\Pictures\Educma_Hackaton\obj\Debug\net6.0-windows\Educma_H.B759C520.Up2Date
+C:\Users\kananavy\Pictures\Educma_Hackaton\obj\Debug\net6.0-windows\Educma_Hackaton.dll
+C:\Users\kananavy\Pictures\Educma_Hackaton\obj\Debug\net6.0-windows\refint\Educma_Hackaton.dll
+C:\Users\kananavy\Pictures\Educma_Hackaton\obj\Debug\net6.0-windows\Educma_Hackaton.pdb
+C:\Users\kananavy\Pictures\Educma_Hackaton\obj\Debug\net6.0-windows\Educma_Hackaton.genruntimeconfig.cache
+C:\Users\kananavy\Pictures\Educma_Hackaton\obj\Debug\net6.0-windows\ref\Educma_Hackaton.dll
+C:\Users\kananavy\Pictures\Educma_Hackaton\obj\Debug\net6.0-windows\Educma_Hackaton.models.GestionDesNote.resources
